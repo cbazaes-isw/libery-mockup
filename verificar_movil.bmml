@@ -41,9 +41,9 @@
     </control>
     <control controlID="23" controlTypeID="com.balsamiq.mockups::Button" x="99" y="132" w="-1" h="-1" measuredW="38" measuredH="27" zOrder="8" locked="false" isInGroup="-1">
       <controlProperties>
-        <href>formas_pago_vinculados%26bm%3Bformas_pago_vinculados.bmml%26bm%3Bformas_pago_vinculados.bmml%26bm%3Bformas_pago_vinculados.bmml</href>
+        <href>vincular_pago%26bm%3Bvincular_pago.bmml%26bm%3Bvincular_pago.bmml%26bm%3Bvincular_pago.bmml</href>
         <icon>JumpBackIcon%7Cxsmall</icon>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2226%2C107%2C64%2C134%22%20href%3D%22formas_pago_vinculados.bmml%22%20alt%3D%22formas_pago_vinculados%22%20id%3D%2223%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2226%2C107%2C64%2C134%22%20href%3D%22vincular_pago.bmml%22%20alt%3D%22vincular_pago%22%20id%3D%2223%22/%3E</map>
         <text/>
       </controlProperties>
     </control>

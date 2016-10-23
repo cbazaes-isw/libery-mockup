@@ -1,41 +1,39 @@
-<mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="355" measuredH="535" mockupW="282" mockupH="510">
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="355" measuredH="535" mockupW="282" mockupH="510">
   <controls>
     <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="73" y="25" w="-1" h="-1" measuredW="282" measuredH="510" zOrder="0" locked="false" isInGroup="-1"/>
-    <control controlID="5" controlTypeID="com.balsamiq.mockups::Button" x="226" y="319" w="81" h="27" measuredW="62" measuredH="24" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Button" x="226" y="319" w="81" h="27" measuredW="63" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <href>crea_cuenta%26bm%3Bcrea_cuenta.bmml%26bm%3Bcrea_cuenta.bmml%26bm%3Bcrea_cuenta.bmml</href>
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22153%2C294%2C234%2C321%22%20href%3D%22crea_cuenta.bmml%22%20alt%3D%22crea_cuenta%22%20id%3D%225%22/%3E</map>
         <text>Sign%20in</text>
       </controlProperties>
     </control>
-    <control controlID="8" controlTypeID="com.balsamiq.mockups::Button" x="122" y="361" w="-1" h="-1" measuredW="184" measuredH="24" zOrder="2" locked="false" isInGroup="-1">
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Link" x="144" y="403" w="-1" h="-1" measuredW="141" measuredH="19" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%BFOlvid%F3%20su%20contrase%F1a%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Button" x="122" y="361" w="-1" h="-1" measuredW="185" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
         <color>2848996</color>
         <href>ingresar_movil%26bm%3Bingresar_movil.bmml%26bm%3Bingresar_movil.bmml%26bm%3Bingresar_movil.bmml</href>
         <icon>FacebookIcon%7Cxsmall</icon>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2249%2C336%2C233%2C360%22%20href%3D%22ingresar_movil.bmml%22%20alt%3D%22ingresar_movil%22%20id%3D%228%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2249%2C336%2C234%2C363%22%20href%3D%22ingresar_movil.bmml%22%20alt%3D%22ingresar_movil%22%20id%3D%228%22/%3E</map>
         <text>Continuar%20con%20Facebook</text>
       </controlProperties>
     </control>
-    <control controlID="9" controlTypeID="com.balsamiq.mockups::MultilineButton" x="122" y="160" w="185" h="130" measuredW="102" measuredH="66" zOrder="3" locked="false" isInGroup="-1">
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::MultilineButton" x="122" y="160" w="185" h="130" measuredW="102" measuredH="66" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
         <href>login_1%26bm%3Blogin_1.bmml%26bm%3Blogin_1.bmml%26bm%3Blogin_1.bmml</href>
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2249%2C135%2C234%2C265%22%20href%3D%22login_1.bmml%22%20alt%3D%22login_1%22%20id%3D%229%22/%3E</map>
         <text>%BFDONDE%3F</text>
       </controlProperties>
     </control>
-    <control controlID="10" controlTypeID="com.balsamiq.mockups::Button" x="122" y="319" w="81" h="27" measuredW="58" measuredH="24" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Button" x="122" y="319" w="81" h="27" measuredW="59" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
         <href>solicitud_envio_1%26bm%3Bsolicitud_envio_1.bmml%26bm%3Bsolicitud_envio_1.bmml%26bm%3Bsolicitud_envio_1.bmml</href>
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2249%2C294%2C130%2C321%22%20href%3D%22solicitud_envio_1.bmml%22%20alt%3D%22solicitud_envio_1%22%20id%3D%2210%22/%3E</map>
         <text>Log%20in</text>
-      </controlProperties>
-    </control>
-    <control controlID="11" controlTypeID="com.balsamiq.mockups::Link" x="144" y="403" w="-1" h="-1" measuredW="141" measuredH="19" zOrder="5" locked="false" isInGroup="-1">
-      <controlProperties>
-        <href>recuperar_contrasena%26bm%3Brecuperar_contrasena.bmml%26bm%3Brecuperar_contrasena.bmml%26bm%3Brecuperar_contrasena.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2271%2C378%2C212%2C397%22%20href%3D%22recuperar_contrasena.bmml%22%20alt%3D%22recuperar_contrasena%22%20id%3D%2211%22/%3E</map>
-        <text>%BFOlvid%F3%20su%20contrase%F1a%3F</text>
       </controlProperties>
     </control>
   </controls>
