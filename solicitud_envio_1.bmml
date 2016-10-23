@@ -50,11 +50,11 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="43" controlTypeID="com.balsamiq.mockups::Button" x="123" y="379" w="-1" h="-1" measuredW="183" measuredH="24" zOrder="5" locked="false" isInGroup="-1">
+    <control controlID="43" controlTypeID="com.balsamiq.mockups::Button" x="152" y="382" w="-1" h="-1" measuredW="124" measuredH="24" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
-        <icon>UserIcon%7Cxsmall</icon>
+        <icon>AIMIcon%7Cxsmall</icon>
         <state>disabled</state>
-        <text>Seleccionar%20colaborador</text>
+        <text>Solicitar%20env%EDo</text>
       </controlProperties>
     </control>
     <control controlID="54" controlTypeID="__group__" x="107" y="418" w="218" h="28" measuredW="218" measuredH="28" zOrder="6" locked="false" isInGroup="-1">

@@ -70,16 +70,7 @@
         <control controlID="1" controlTypeID="com.balsamiq.mockups::Webcam" x="0" y="0" w="30" h="30" measuredW="177" measuredH="146" zOrder="1" locked="false" isInGroup="44"/>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="45" controlTypeID="com.balsamiq.mockups::Button" x="123" y="379" w="-1" h="-1" measuredW="183" measuredH="24" zOrder="7" locked="false" isInGroup="-1">
-      <controlProperties>
-        <href>seleccion_colaborador_1%26bm%3Bseleccion_colaborador_1.bmml%26bm%3Bseleccion_colaborador_1.bmml%26bm%3Bseleccion_colaborador_1.bmml</href>
-        <icon>UserIcon%7Cxsmall</icon>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2250%2C354%2C233%2C378%22%20href%3D%22seleccion_colaborador_1.bmml%22%20alt%3D%22seleccion_colaborador_1%22%20id%3D%2245%22/%3E</map>
-        <state>up</state>
-        <text>Seleccionar%20colaborador</text>
-      </controlProperties>
-    </control>
-    <control controlID="47" controlTypeID="__group__" x="107" y="418" w="218" h="28" measuredW="218" measuredH="28" zOrder="8" locked="false" isInGroup="-1">
+    <control controlID="47" controlTypeID="__group__" x="107" y="418" w="218" h="28" measuredW="218" measuredH="28" zOrder="7" locked="false" isInGroup="-1">
       <groupChildrenDescriptors>
         <control controlID="0" controlTypeID="com.balsamiq.mockups::IconLabel" x="0" y="0" w="-1" h="-1" measuredW="25" measuredH="28" zOrder="0" locked="false" isInGroup="47">
           <controlProperties>
@@ -122,6 +113,15 @@
           </controlProperties>
         </control>
       </groupChildrenDescriptors>
+    </control>
+    <control controlID="48" controlTypeID="com.balsamiq.mockups::Button" x="152" y="382" w="-1" h="-1" measuredW="124" measuredH="24" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>resumen_solicitud_envio_origen%26bm%3Bresumen_solicitud_envio_origen.bmml%26bm%3Bresumen_solicitud_envio_origen.bmml%26bm%3Bresumen_solicitud_envio_origen.bmml</href>
+        <icon>AIMIcon%7Cxsmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2279%2C357%2C203%2C381%22%20href%3D%22resumen_solicitud_envio_origen.bmml%22%20alt%3D%22resumen_solicitud_envio_origen%22%20id%3D%2248%22/%3E</map>
+        <state>up</state>
+        <text>Solicitar%20env%EDo</text>
+      </controlProperties>
     </control>
   </controls>
 </mockup>

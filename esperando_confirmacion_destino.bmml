@@ -11,7 +11,7 @@
       <controlProperties>
         <href>notificacion_confirmacion_destino%26bm%3Bnotificacion_confirmacion_destino.bmml%26bm%3Bnotificacion_confirmacion_destino.bmml%26bm%3Bnotificacion_confirmacion_destino.bmml</href>
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2241%2C131%2C241%2C211%22%20href%3D%22notificacion_confirmacion_destino.bmml%22%20alt%3D%22notificacion_confirmacion_destino%22%20id%3D%2227%22/%3E</map>
-        <text>esperando%20confirmacion%20en%20el%20destino...</text>
+        <text>Esperando%20confirmacion%20en%20el%20destino...</text>
       </controlProperties>
     </control>
     <control controlID="29" controlTypeID="__group__" x="107" y="418" w="218" h="28" measuredW="218" measuredH="28" zOrder="3" locked="false" isInGroup="-1">
