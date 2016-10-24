@@ -76,9 +76,9 @@
       <controlProperties>
         <borderStyle>square</borderStyle>
         <color>40463</color>
-        <href>seguimiento_colaborador%26bm%3Bseguimiento_colaborador.bmml%26bm%3Bseguimiento_colaborador.bmml%26bm%3Bseguimiento_colaborador.bmml</href>
+        <href>seguimiento_colaborador_1%26bm%3Bseguimiento_colaborador_1.bmml%26bm%3Bseguimiento_colaborador_1.bmml%26bm%3Bseguimiento_colaborador_1.bmml</href>
         <icon>ThumbsUpIcon%7Cmedium</icon>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2240%2C389%2C72%2C421%22%20href%3D%22seguimiento_colaborador.bmml%22%20alt%3D%22seguimiento_colaborador%22%20id%3D%2244%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2240%2C389%2C72%2C421%22%20href%3D%22seguimiento_colaborador_1.bmml%22%20alt%3D%22seguimiento_colaborador_1%22%20id%3D%2244%22/%3E</map>
       </controlProperties>
     </control>
     <control controlID="45" controlTypeID="com.balsamiq.mockups::Icon" x="284" y="414" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="17" locked="false" isInGroup="-1">

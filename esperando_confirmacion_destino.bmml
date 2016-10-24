@@ -9,8 +9,8 @@
     </control>
     <control controlID="27" controlTypeID="com.balsamiq.mockups::Paragraph" x="114" y="156" w="-1" h="-1" measuredW="200" measuredH="80" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
-        <href>notificacion_confirmacion_destino%26bm%3Bnotificacion_confirmacion_destino.bmml%26bm%3Bnotificacion_confirmacion_destino.bmml%26bm%3Bnotificacion_confirmacion_destino.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2241%2C131%2C241%2C211%22%20href%3D%22notificacion_confirmacion_destino.bmml%22%20alt%3D%22notificacion_confirmacion_destino%22%20id%3D%2227%22/%3E</map>
+        <href>esperando_confirmacion_colaborador%26bm%3Besperando_confirmacion_colaborador.bmml%26bm%3Besperando_confirmacion_colaborador.bmml%26bm%3Besperando_confirmacion_colaborador.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2241%2C131%2C241%2C211%22%20href%3D%22esperando_confirmacion_colaborador.bmml%22%20alt%3D%22esperando_confirmacion_colaborador%22%20id%3D%2227%22/%3E</map>
         <text>Esperando%20confirmacion%20en%20el%20destino...</text>
       </controlProperties>
     </control>

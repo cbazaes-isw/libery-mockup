@@ -11,9 +11,9 @@
       <controlProperties>
         <borderStyle>square</borderStyle>
         <color>40463</color>
-        <href>verificar_movil%26bm%3Bverificar_movil.bmml%26bm%3Bverificar_movil.bmml%26bm%3Bverificar_movil.bmml</href>
+        <href>solicitud_envio_1%26bm%3Bsolicitud_envio_1.bmml%26bm%3Bsolicitud_envio_1.bmml%26bm%3Bsolicitud_envio_1.bmml</href>
         <icon>ThumbsUpIcon%7Cmedium</icon>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2240%2C389%2C72%2C421%22%20href%3D%22verificar_movil.bmml%22%20alt%3D%22verificar_movil%22%20id%3D%2213%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2240%2C389%2C72%2C421%22%20href%3D%22solicitud_envio_1.bmml%22%20alt%3D%22solicitud_envio_1%22%20id%3D%2213%22/%3E</map>
       </controlProperties>
     </control>
     <control controlID="14" controlTypeID="com.balsamiq.mockups::Icon" x="284" y="414" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="3" locked="false" isInGroup="-1">
