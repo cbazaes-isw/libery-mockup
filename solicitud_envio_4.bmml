@@ -123,5 +123,13 @@
         <text>Solicitar%20env%EDo</text>
       </controlProperties>
     </control>
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::ComboBox" x="103" y="321" w="222" h="-1" measuredW="157" measuredH="24" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>solicitud_envio_5%26bm%3Bsolicitud_envio_5.bmml%26bm%3Bsolicitud_envio_5.bmml%26bm%3Bsolicitud_envio_5.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2230%2C296%2C252%2C320%22%20href%3D%22solicitud_envio_5.bmml%22%20alt%3D%22solicitud_envio_5%22%20id%3D%2249%22/%3E</map>
+        <state>closed</state>
+        <text>Por%20cuenta%20del%20origen%0APor%20cuenta%20del%20destino%0ACuenta%20dividida</text>
+      </controlProperties>
+    </control>
   </controls>
 </mockup>

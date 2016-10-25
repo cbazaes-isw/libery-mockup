@@ -13,7 +13,7 @@
         <text>Usuario%20destino</text>
       </controlProperties>
     </control>
-    <control controlID="39" controlTypeID="__group__" x="118" y="184" w="200" h="127" measuredW="200" measuredH="127" zOrder="8" locked="false" isInGroup="-1">
+    <control controlID="39" controlTypeID="__group__" x="118" y="184" w="200" h="127" measuredW="200" measuredH="127" zOrder="9" locked="false" isInGroup="-1">
       <groupChildrenDescriptors>
         <control controlID="0" controlTypeID="com.balsamiq.mockups::FieldSet" x="0" y="0" w="200" h="127" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="39">
           <controlProperties>
@@ -34,7 +34,7 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="40" controlTypeID="com.balsamiq.mockups::ModalScreen" x="97" y="123" w="230" h="326" measuredW="318" measuredH="240" zOrder="7" locked="false" isInGroup="-1"/>
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::ModalScreen" x="97" y="123" w="230" h="326" measuredW="318" measuredH="240" zOrder="8" locked="false" isInGroup="-1"/>
     <control controlID="41" controlTypeID="__group__" x="103" y="274" w="222" h="40" measuredW="222" measuredH="40" zOrder="1" locked="false" isInGroup="-1">
       <groupChildrenDescriptors>
         <control controlID="0" controlTypeID="com.balsamiq.mockups::FieldSet" x="0" y="0" w="222" h="40" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="41">
@@ -119,6 +119,12 @@
         <icon>AIMIcon%7Cxsmall</icon>
         <state>disabled</state>
         <text>Solicitar%20env%EDo</text>
+      </controlProperties>
+    </control>
+    <control controlID="48" controlTypeID="com.balsamiq.mockups::ComboBox" x="103" y="321" w="222" h="-1" measuredW="157" measuredH="24" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>closed</state>
+        <text>Por%20cuenta%20del%20origen%0APor%20cuenta%20del%20destino%0ACuenta%20dividida</text>
       </controlProperties>
     </control>
   </controls>

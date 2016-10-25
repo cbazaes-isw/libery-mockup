@@ -63,5 +63,10 @@
         <text>%2414.600</text>
       </controlProperties>
     </control>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::Label" x="151" y="304" w="-1" h="-1" measuredW="127" measuredH="21" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Por%20cuenta%20del%20origen</text>
+      </controlProperties>
+    </control>
   </controls>
 </mockup>

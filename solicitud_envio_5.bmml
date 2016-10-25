@@ -15,7 +15,11 @@
         <text>Usuario%20destino</text>
       </controlProperties>
     </control>
-    <control controlID="41" controlTypeID="__group__" x="103" y="232" w="130" h="27" measuredW="130" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="41" controlTypeID="__group__" x="165" y="232" w="130" h="27" measuredW="130" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>captura_producto_1%26bm%3Bcaptura_producto_1.bmml%26bm%3Bcaptura_producto_1.bmml%26bm%3Bcaptura_producto_1.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2292%2C207%2C222%2C234%22%20href%3D%22captura_producto_1.bmml%22%20alt%3D%22captura_producto_1%22%20id%3D%2241%22/%3E</map>
+      </controlProperties>
       <groupChildrenDescriptors>
         <control controlID="0" controlTypeID="com.balsamiq.mockups::Button" x="0" y="0" w="37" h="27" measuredW="37" measuredH="24" zOrder="0" locked="false" isInGroup="41">
           <controlProperties>
@@ -50,16 +54,25 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="43" controlTypeID="com.balsamiq.mockups::Button" x="152" y="382" w="-1" h="-1" measuredW="124" measuredH="24" zOrder="5" locked="false" isInGroup="-1">
+    <control controlID="43" controlTypeID="com.balsamiq.mockups::Image" x="103" y="220" w="50" h="50" measuredW="894" measuredH="894" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
-        <icon>AIMIcon%7Cxsmall</icon>
-        <state>disabled</state>
-        <text>Solicitar%20env%EDo</text>
+        <src>http%3A//pre09.deviantart.net/1ade/th/pre/i/2011/132/1/f/angry_bird___king_pig_by_life_as_a_coder-d3g7nj0.jpg</src>
+        <text>Producto</text>
       </controlProperties>
     </control>
-    <control controlID="54" controlTypeID="__group__" x="107" y="418" w="218" h="28" measuredW="218" measuredH="28" zOrder="6" locked="false" isInGroup="-1">
+    <control controlID="44" controlTypeID="__group__" x="103" y="191" w="89" h="30" measuredW="89" measuredH="30" zOrder="6" locked="false" isInGroup="-1">
       <groupChildrenDescriptors>
-        <control controlID="0" controlTypeID="com.balsamiq.mockups::IconLabel" x="0" y="0" w="-1" h="-1" measuredW="25" measuredH="28" zOrder="0" locked="false" isInGroup="54">
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Label" x="42" y="5" w="-1" h="-1" measuredW="47" measuredH="21" zOrder="0" locked="false" isInGroup="44">
+          <controlProperties>
+            <text>Tio%20Lalo</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Webcam" x="0" y="0" w="30" h="30" measuredW="177" measuredH="146" zOrder="1" locked="false" isInGroup="44"/>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="47" controlTypeID="__group__" x="107" y="418" w="218" h="28" measuredW="218" measuredH="28" zOrder="7" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::IconLabel" x="0" y="0" w="-1" h="-1" measuredW="25" measuredH="28" zOrder="0" locked="false" isInGroup="47">
           <controlProperties>
             <icon>AIMIcon%7Cxsmall</icon>
             <labelPosition>bottom</labelPosition>
@@ -67,7 +80,7 @@
             <text>Env%EDo</text>
           </controlProperties>
         </control>
-        <control controlID="1" controlTypeID="com.balsamiq.mockups::IconLabel" x="40" y="0" w="-1" h="-1" measuredW="35" measuredH="28" zOrder="1" locked="false" isInGroup="54">
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::IconLabel" x="40" y="0" w="-1" h="-1" measuredW="35" measuredH="28" zOrder="1" locked="false" isInGroup="47">
           <controlProperties>
             <icon>HLinesIcon%7Cxsmall</icon>
             <labelPosition>bottom</labelPosition>
@@ -75,7 +88,7 @@
             <text>Historia</text>
           </controlProperties>
         </control>
-        <control controlID="2" controlTypeID="com.balsamiq.mockups::IconLabel" x="90" y="0" w="-1" h="-1" measuredW="31" measuredH="28" zOrder="2" locked="false" isInGroup="54">
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::IconLabel" x="90" y="0" w="-1" h="-1" measuredW="31" measuredH="28" zOrder="2" locked="false" isInGroup="47">
           <controlProperties>
             <icon>CheckMarkIcon%7Cxsmall</icon>
             <labelPosition>bottom</labelPosition>
@@ -83,7 +96,7 @@
             <text>Logros</text>
           </controlProperties>
         </control>
-        <control controlID="3" controlTypeID="com.balsamiq.mockups::IconLabel" x="178" y="0" w="-1" h="-1" measuredW="40" measuredH="28" zOrder="3" locked="false" isInGroup="54">
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::IconLabel" x="178" y="0" w="-1" h="-1" measuredW="40" measuredH="28" zOrder="3" locked="false" isInGroup="47">
           <controlProperties>
             <icon>RightTriangleIcon%7Cxsmall</icon>
             <labelPosition>bottom</labelPosition>
@@ -91,7 +104,7 @@
             <text>En%20curso</text>
           </controlProperties>
         </control>
-        <control controlID="4" controlTypeID="com.balsamiq.mockups::IconLabel" x="136" y="0" w="-1" h="-1" measuredW="34" measuredH="28" zOrder="4" locked="false" isInGroup="54">
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::IconLabel" x="136" y="0" w="-1" h="-1" measuredW="34" measuredH="28" zOrder="4" locked="false" isInGroup="47">
           <controlProperties>
             <icon>ContactsIcon%7Cxsmall</icon>
             <labelPosition>bottom</labelPosition>
@@ -101,9 +114,20 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="56" controlTypeID="com.balsamiq.mockups::ComboBox" x="103" y="321" w="222" h="-1" measuredW="157" measuredH="24" zOrder="7" locked="false" isInGroup="-1">
+    <control controlID="48" controlTypeID="com.balsamiq.mockups::Button" x="152" y="382" w="-1" h="-1" measuredW="124" measuredH="24" zOrder="8" locked="false" isInGroup="-1">
       <controlProperties>
-        <state>closed</state>
+        <href>resumen_solicitud_envio_origen%26bm%3Bresumen_solicitud_envio_origen.bmml%26bm%3Bresumen_solicitud_envio_origen.bmml%26bm%3Bresumen_solicitud_envio_origen.bmml</href>
+        <icon>AIMIcon%7Cxsmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2279%2C357%2C203%2C381%22%20href%3D%22resumen_solicitud_envio_origen.bmml%22%20alt%3D%22resumen_solicitud_envio_origen%22%20id%3D%2248%22/%3E</map>
+        <state>up</state>
+        <text>Solicitar%20env%EDo</text>
+      </controlProperties>
+    </control>
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::ComboBox" x="103" y="321" w="222" h="-1" measuredW="157" measuredH="61" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>solicitud_envio_4%26bm%3Bsolicitud_envio_4.bmml%26bm%3Bsolicitud_envio_4.bmml%26bm%3Bsolicitud_envio_4.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2230%2C296%2C252%2C357%22%20href%3D%22solicitud_envio_4.bmml%22%20alt%3D%22solicitud_envio_4%22%20id%3D%2249%22/%3E</map>
+        <state>up</state>
         <text>Por%20cuenta%20del%20origen%0APor%20cuenta%20del%20destino%0ACuenta%20dividida</text>
       </controlProperties>
     </control>

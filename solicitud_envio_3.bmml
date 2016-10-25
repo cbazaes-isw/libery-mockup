@@ -115,5 +115,11 @@
         <text>Solicitar%20env%EDo</text>
       </controlProperties>
     </control>
+    <control controlID="50" controlTypeID="com.balsamiq.mockups::ComboBox" x="103" y="321" w="222" h="-1" measuredW="157" measuredH="24" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>closed</state>
+        <text>Por%20cuenta%20del%20origen%0APor%20cuenta%20del%20destino%0ACuenta%20dividida</text>
+      </controlProperties>
+    </control>
   </controls>
 </mockup>
