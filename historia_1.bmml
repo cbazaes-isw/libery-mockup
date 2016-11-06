@@ -1,0 +1,104 @@
+<mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="355" measuredH="535" mockupW="282" mockupH="510">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="73" y="25" w="-1" h="-1" measuredW="282" measuredH="510" zOrder="0" locked="false" isInGroup="-1"/>
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::SubTitle" x="114" y="127" w="-1" h="-1" measuredW="200" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Historial%20de%20env%EDos</text>
+      </controlProperties>
+    </control>
+    <control controlID="55" controlTypeID="__group__" x="107" y="418" w="218" h="28" measuredW="218" measuredH="28" zOrder="2" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::IconLabel" x="0" y="0" w="-1" h="-1" measuredW="25" measuredH="28" zOrder="0" locked="false" isInGroup="55">
+          <controlProperties>
+            <href>solicitud_envio_1%26bm%3Bsolicitud_envio_1.bmml%26bm%3Bsolicitud_envio_1.bmml%26bm%3Bsolicitud_envio_1.bmml</href>
+            <icon>AIMIcon%7Cxsmall</icon>
+            <labelPosition>bottom</labelPosition>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2234%2C393%2C59%2C421%22%20href%3D%22solicitud_envio_1.bmml%22%20alt%3D%22solicitud_envio_1%22%20id%3D%220%22/%3E</map>
+            <size>10</size>
+            <text>Env%EDo</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::IconLabel" x="40" y="0" w="-1" h="-1" measuredW="35" measuredH="28" zOrder="1" locked="false" isInGroup="55">
+          <controlProperties>
+            <href>historia_1%26bm%3Bhistoria_1.bmml%26bm%3Bhistoria_1.bmml%26bm%3Bhistoria_1.bmml</href>
+            <icon>HLinesIcon%7Cxsmall</icon>
+            <labelPosition>bottom</labelPosition>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2274%2C393%2C109%2C421%22%20href%3D%22historia_1.bmml%22%20alt%3D%22historia_1%22%20id%3D%221%22/%3E</map>
+            <size>10</size>
+            <state>disabled</state>
+            <text>Historia</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::IconLabel" x="90" y="0" w="-1" h="-1" measuredW="31" measuredH="28" zOrder="2" locked="false" isInGroup="55">
+          <controlProperties>
+            <href>logros_1%26bm%3Blogros_1.bmml%26bm%3Blogros_1.bmml%26bm%3Blogros_1.bmml</href>
+            <icon>CheckMarkIcon%7Cxsmall</icon>
+            <labelPosition>bottom</labelPosition>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22124%2C393%2C155%2C421%22%20href%3D%22logros_1.bmml%22%20alt%3D%22logros_1%22%20id%3D%222%22/%3E</map>
+            <size>10</size>
+            <text>Logros</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::IconLabel" x="178" y="0" w="-1" h="-1" measuredW="40" measuredH="28" zOrder="3" locked="false" isInGroup="55">
+          <controlProperties>
+            <href>envios_en_curso_1%26bm%3Benvios_en_curso_1.bmml%26bm%3Benvios_en_curso_1.bmml%26bm%3Benvios_en_curso_1.bmml</href>
+            <icon>RightTriangleIcon%7Cxsmall</icon>
+            <labelPosition>bottom</labelPosition>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22212%2C393%2C252%2C421%22%20href%3D%22envios_en_curso_1.bmml%22%20alt%3D%22envios_en_curso_1%22%20id%3D%223%22/%3E</map>
+            <size>10</size>
+            <text>En%20curso</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::IconLabel" x="136" y="0" w="-1" h="-1" measuredW="34" measuredH="28" zOrder="4" locked="false" isInGroup="55">
+          <controlProperties>
+            <href>amigos_1%26bm%3Bamigos_1.bmml%26bm%3Bamigos_1.bmml%26bm%3Bamigos_1.bmml</href>
+            <icon>ContactsIcon%7Cxsmall</icon>
+            <labelPosition>bottom</labelPosition>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22170%2C393%2C204%2C421%22%20href%3D%22amigos_1.bmml%22%20alt%3D%22amigos_1%22%20id%3D%224%22/%3E</map>
+            <size>10</size>
+            <text>Amigos</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="58" controlTypeID="com.balsamiq.mockups::Image" x="114" y="158" w="50" h="50" measuredW="894" measuredH="894" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>http%3A//pre09.deviantart.net/1ade/th/pre/i/2011/132/1/f/angry_bird___king_pig_by_life_as_a_coder-d3g7nj0.jpg</src>
+        <text>Producto</text>
+      </controlProperties>
+    </control>
+    <control controlID="59" controlTypeID="com.balsamiq.mockups::Paragraph" x="170" y="158" w="144" h="50" measuredW="200" measuredH="80" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>2016-01-01%0AT%EDo%20lalo%0A%2415.500</text>
+      </controlProperties>
+    </control>
+    <control controlID="61" controlTypeID="com.balsamiq.mockups::Image" x="114" y="223" w="50" h="50" measuredW="225" measuredH="225" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/lego_logo.png</src>
+      </controlProperties>
+    </control>
+    <control controlID="62" controlTypeID="com.balsamiq.mockups::Paragraph" x="170" y="223" w="144" h="50" measuredW="200" measuredH="80" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>2016-01-01%0AT%EDo%20lalo%0A%2415.500</text>
+      </controlProperties>
+    </control>
+    <control controlID="63" controlTypeID="com.balsamiq.mockups::HRule" x="107" y="213" w="218" h="-1" measuredW="100" measuredH="10" zOrder="7" locked="false" isInGroup="-1"/>
+    <control controlID="68" controlTypeID="com.balsamiq.mockups::Image" x="114" y="301" w="52" h="15" measuredW="1600" measuredH="464" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>http%3A//1.bp.blogspot.com/-lu3gFG9Wh3E/UbzuxDVp4hI/AAAAAAAACK4/A9ZaljtEWW4/s1600/llave-inglesa-her.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="70" controlTypeID="com.balsamiq.mockups::Paragraph" x="170" y="283" w="144" h="50" measuredW="200" measuredH="80" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>2016-01-01%0AT%EDo%20lalo%0A%2415.500</text>
+      </controlProperties>
+    </control>
+    <control controlID="71" controlTypeID="com.balsamiq.mockups::HRule" x="107" y="273" w="218" h="-1" measuredW="100" measuredH="10" zOrder="10" locked="false" isInGroup="-1"/>
+    <control controlID="75" controlTypeID="com.balsamiq.mockups::StickyNote" x="210" y="301" w="104" h="99" measuredW="109" measuredH="123" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Deslizar%20a%20un%20costado%20para%20eliminar%20registro</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
