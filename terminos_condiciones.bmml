@@ -1,6 +1,5 @@
 <mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="355" measuredH="535" mockupW="282" mockupH="510">
   <controls>
-    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="73" y="25" w="-1" h="-1" measuredW="282" measuredH="510" zOrder="0" locked="false" isInGroup="-1"/>
     <control controlID="12" controlTypeID="com.balsamiq.mockups::SubTitle" x="106" y="130" w="-1" h="-1" measuredW="217" measuredH="23" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <size>20</size>
@@ -30,5 +29,6 @@
         <text>Lorem%20ipsum%20dolor%20sit%20cuchufl%ED%20barquillo%20bac%E1n%20jote%20gamba%20listeilor%20po%20cahu%EDn%2C%20luca%20mel%F3n%20con%20vino%20pichanga%20coscacho%20ni%20ah%ED%20peinar%20la%20mu%F1eca%20chuchada%20al%20chancho%20achoclonar.%20Chorrocientos%20pituto%20ubicatex%20huevo%20duro%20bolsero%20cachureo%20el%20hoyo%20del%20queque%20en%20cana%20huev%F3n%20el%20a%F1o%20del%20loly%20hacerla%20corta%20impeque%20de%20miedo%20quilterry%20la%20raja%20longi%20%F1ecla.%20Hilo%20curado%20rayuela%20carrete%20quina%20guagua%20lorea%20piola%20ni%20ah%ED.</text>
       </controlProperties>
     </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Canvas" x="73" y="25" w="282" h="510" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="-1"/>
   </controls>
 </mockup>
