@@ -1,32 +1,32 @@
 <mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="355" measuredH="535" mockupW="282" mockupH="510">
   <controls>
-    <control controlID="13" controlTypeID="com.balsamiq.mockups::SubTitle" x="112" y="133" w="-1" h="-1" measuredW="204" measuredH="23" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::SubTitle" x="112" y="40" w="-1" h="-1" measuredW="204" measuredH="23" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <size>20</size>
         <text>Recuperar%20contrase%F1a</text>
       </controlProperties>
     </control>
-    <control controlID="14" controlTypeID="com.balsamiq.mockups::Paragraph" x="106" y="168" w="217" h="66" measuredW="200" measuredH="80" zOrder="2" locked="false" isInGroup="-1">
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Paragraph" x="88" y="75" w="252" h="66" measuredW="200" measuredH="80" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Ingresa%20tu%20correo%20electr%F3nico%20para%20que%20puedas%20recuperar%20tu%20cuenta</text>
       </controlProperties>
     </control>
-    <control controlID="15" controlTypeID="com.balsamiq.mockups::TextInput" x="122" y="211" w="185" h="-1" measuredW="79" measuredH="23" zOrder="3" locked="false" isInGroup="-1">
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::TextInput" x="88" y="118" w="252" h="-1" measuredW="79" measuredH="23" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
         <text/>
       </controlProperties>
     </control>
-    <control controlID="16" controlTypeID="com.balsamiq.mockups::Button" x="106" y="249" w="81" h="27" measuredW="69" measuredH="24" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Button" x="88" y="156" w="105" h="27" measuredW="69" measuredH="24" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
         <href>splash%26bm%3Bsplash.bmml%26bm%3Bsplash.bmml%26bm%3Bsplash.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2233%2C224%2C114%2C251%22%20href%3D%22splash.bmml%22%20alt%3D%22splash%22%20id%3D%2216%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2215%2C131%2C120%2C158%22%20href%3D%22splash.bmml%22%20alt%3D%22splash%22%20id%3D%2216%22/%3E</map>
         <text>Aceptar</text>
       </controlProperties>
     </control>
-    <control controlID="17" controlTypeID="com.balsamiq.mockups::Button" x="235" y="249" w="81" h="27" measuredW="76" measuredH="24" zOrder="5" locked="false" isInGroup="-1">
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::Button" x="235" y="156" w="105" h="27" measuredW="76" measuredH="24" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
         <href>splash%26bm%3Bsplash.bmml%26bm%3Bsplash.bmml%26bm%3Bsplash.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22162%2C224%2C243%2C251%22%20href%3D%22splash.bmml%22%20alt%3D%22splash%22%20id%3D%2217%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22162%2C131%2C267%2C158%22%20href%3D%22splash.bmml%22%20alt%3D%22splash%22%20id%3D%2217%22/%3E</map>
         <text>Cancelar</text>
       </controlProperties>
     </control>

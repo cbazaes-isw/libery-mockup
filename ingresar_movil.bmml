@@ -1,33 +1,33 @@
 <mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="355" measuredH="535" mockupW="282" mockupH="510">
   <controls>
-    <control controlID="14" controlTypeID="com.balsamiq.mockups::TextInput" x="122" y="193" w="185" h="-1" measuredW="79" measuredH="23" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::TextInput" x="91" y="98" w="246" h="-1" measuredW="79" measuredH="23" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <text/>
       </controlProperties>
     </control>
-    <control controlID="15" controlTypeID="com.balsamiq.mockups::Label" x="122" y="172" w="-1" h="-1" measuredW="44" measuredH="21" zOrder="2" locked="false" isInGroup="-1">
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Label" x="91" y="77" w="-1" h="-1" measuredW="44" measuredH="21" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
         <text>%23%20m%F3vil</text>
       </controlProperties>
     </control>
-    <control controlID="19" controlTypeID="com.balsamiq.mockups::Button" x="175" y="411" w="-1" h="-1" measuredW="78" measuredH="24" zOrder="3" locked="false" isInGroup="-1">
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::Button" x="175" y="136" w="-1" h="-1" measuredW="78" measuredH="24" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
         <href>verificar_movil%26bm%3Bverificar_movil.bmml%26bm%3Bverificar_movil.bmml%26bm%3Bverificar_movil.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22102%2C386%2C180%2C410%22%20href%3D%22verificar_movil.bmml%22%20alt%3D%22verificar_movil%22%20id%3D%2219%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22102%2C111%2C180%2C135%22%20href%3D%22verificar_movil.bmml%22%20alt%3D%22verificar_movil%22%20id%3D%2219%22/%3E</map>
         <text>Siguiente</text>
       </controlProperties>
     </control>
-    <control controlID="20" controlTypeID="com.balsamiq.mockups::SubTitle" x="144" y="134" w="-1" h="-1" measuredW="162" measuredH="23" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::SubTitle" x="133" y="40" w="-1" h="-1" measuredW="162" measuredH="23" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
         <size>20</size>
         <text>Ingresa%20tu%20celular</text>
       </controlProperties>
     </control>
-    <control controlID="21" controlTypeID="com.balsamiq.mockups::Button" x="99" y="132" w="-1" h="-1" measuredW="37" measuredH="24" zOrder="5" locked="false" isInGroup="-1">
+    <control controlID="21" controlTypeID="com.balsamiq.mockups::Button" x="85" y="39" w="-1" h="-1" measuredW="37" measuredH="24" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
         <href>crea_cuenta%26bm%3Bcrea_cuenta.bmml%26bm%3Bcrea_cuenta.bmml%26bm%3Bcrea_cuenta.bmml</href>
         <icon>JumpBackIcon%7Cxsmall</icon>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2226%2C107%2C63%2C131%22%20href%3D%22crea_cuenta.bmml%22%20alt%3D%22crea_cuenta%22%20id%3D%2221%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2212%2C14%2C49%2C38%22%20href%3D%22crea_cuenta.bmml%22%20alt%3D%22crea_cuenta%22%20id%3D%2221%22/%3E</map>
         <text/>
       </controlProperties>
     </control>

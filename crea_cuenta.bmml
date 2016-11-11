@@ -1,65 +1,65 @@
 <mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="355" measuredH="535" mockupW="282" mockupH="510">
   <controls>
-    <control controlID="8" controlTypeID="com.balsamiq.mockups::Button" x="122" y="136" w="-1" h="-1" measuredW="184" measuredH="24" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Button" x="91" y="40" w="246" h="24" measuredW="184" measuredH="24" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <color>2848996</color>
         <href>ingresar_movil%26bm%3Bingresar_movil.bmml%26bm%3Bingresar_movil.bmml%26bm%3Bingresar_movil.bmml</href>
         <icon>FacebookIcon%7Cxsmall</icon>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2249%2C111%2C233%2C135%22%20href%3D%22ingresar_movil.bmml%22%20alt%3D%22ingresar_movil%22%20id%3D%228%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2218%2C15%2C264%2C39%22%20href%3D%22ingresar_movil.bmml%22%20alt%3D%22ingresar_movil%22%20id%3D%228%22/%3E</map>
         <text>Continuar%20con%20Facebook</text>
       </controlProperties>
     </control>
-    <control controlID="9" controlTypeID="com.balsamiq.mockups::TextInput" x="122" y="194" w="185" h="-1" measuredW="79" measuredH="23" zOrder="2" locked="false" isInGroup="-1">
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::TextInput" x="91" y="98" w="246" h="-1" measuredW="79" measuredH="23" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
         <text/>
       </controlProperties>
     </control>
-    <control controlID="10" controlTypeID="com.balsamiq.mockups::Label" x="122" y="173" w="-1" h="-1" measuredW="31" measuredH="21" zOrder="3" locked="false" isInGroup="-1">
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Label" x="91" y="77" w="-1" h="-1" measuredW="31" measuredH="21" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
         <text>email</text>
       </controlProperties>
     </control>
-    <control controlID="11" controlTypeID="com.balsamiq.mockups::HRule" x="119" y="163" w="191" h="-1" measuredW="100" measuredH="10" zOrder="4" locked="false" isInGroup="-1"/>
-    <control controlID="12" controlTypeID="com.balsamiq.mockups::TextInput" x="122" y="241" w="185" h="-1" measuredW="79" measuredH="23" zOrder="5" locked="false" isInGroup="-1">
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::HRule" x="88" y="67" w="252" h="-1" measuredW="100" measuredH="10" zOrder="4" locked="false" isInGroup="-1"/>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::TextInput" x="91" y="145" w="246" h="-1" measuredW="79" measuredH="23" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
         <text/>
       </controlProperties>
     </control>
-    <control controlID="13" controlTypeID="com.balsamiq.mockups::Label" x="122" y="220" w="-1" h="-1" measuredW="103" measuredH="21" zOrder="6" locked="false" isInGroup="-1">
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Label" x="91" y="124" w="-1" h="-1" measuredW="103" measuredH="21" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
         <text>nombre%20y%20apellido</text>
       </controlProperties>
     </control>
-    <control controlID="14" controlTypeID="com.balsamiq.mockups::TextInput" x="122" y="288" w="185" h="-1" measuredW="79" measuredH="23" zOrder="7" locked="false" isInGroup="-1">
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::TextInput" x="91" y="192" w="246" h="-1" measuredW="79" measuredH="23" zOrder="7" locked="false" isInGroup="-1">
       <controlProperties>
         <text/>
       </controlProperties>
     </control>
-    <control controlID="15" controlTypeID="com.balsamiq.mockups::Label" x="122" y="267" w="-1" h="-1" measuredW="44" measuredH="21" zOrder="8" locked="false" isInGroup="-1">
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Label" x="91" y="171" w="-1" h="-1" measuredW="44" measuredH="21" zOrder="8" locked="false" isInGroup="-1">
       <controlProperties>
         <text>%23%20m%F3vil</text>
       </controlProperties>
     </control>
-    <control controlID="16" controlTypeID="com.balsamiq.mockups::TextInput" x="122" y="335" w="185" h="-1" measuredW="79" measuredH="23" zOrder="9" locked="false" isInGroup="-1">
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::TextInput" x="91" y="239" w="246" h="-1" measuredW="79" measuredH="23" zOrder="9" locked="false" isInGroup="-1">
       <controlProperties>
         <text/>
       </controlProperties>
     </control>
-    <control controlID="17" controlTypeID="com.balsamiq.mockups::Label" x="122" y="314" w="-1" h="-1" measuredW="67" measuredH="21" zOrder="10" locked="false" isInGroup="-1">
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::Label" x="91" y="218" w="-1" h="-1" measuredW="67" measuredH="21" zOrder="10" locked="false" isInGroup="-1">
       <controlProperties>
         <text>contrase%F1a</text>
       </controlProperties>
     </control>
-    <control controlID="18" controlTypeID="com.balsamiq.mockups::Button" x="122" y="376" w="-1" h="-1" measuredW="113" measuredH="24" zOrder="11" locked="false" isInGroup="-1">
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Button" x="91" y="277" w="-1" h="-1" measuredW="113" measuredH="24" zOrder="11" locked="false" isInGroup="-1">
       <controlProperties>
         <icon>CameraIcon%7Cxsmall</icon>
         <text>agregar%20foto</text>
       </controlProperties>
     </control>
-    <control controlID="19" controlTypeID="com.balsamiq.mockups::Button" x="175" y="411" w="-1" h="-1" measuredW="78" measuredH="24" zOrder="12" locked="false" isInGroup="-1">
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::Button" x="175" y="316" w="-1" h="-1" measuredW="78" measuredH="24" zOrder="12" locked="false" isInGroup="-1">
       <controlProperties>
         <href>ingresar_movil%26bm%3Bingresar_movil.bmml%26bm%3Bingresar_movil.bmml%26bm%3Bingresar_movil.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22102%2C386%2C180%2C410%22%20href%3D%22ingresar_movil.bmml%22%20alt%3D%22ingresar_movil%22%20id%3D%2219%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22102%2C291%2C180%2C315%22%20href%3D%22ingresar_movil.bmml%22%20alt%3D%22ingresar_movil%22%20id%3D%2219%22/%3E</map>
         <text>Siguiente</text>
       </controlProperties>
     </control>

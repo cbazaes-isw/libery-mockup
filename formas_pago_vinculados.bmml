@@ -1,41 +1,41 @@
 <mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="355" measuredH="535" mockupW="282" mockupH="510">
   <controls>
-    <control controlID="12" controlTypeID="com.balsamiq.mockups::SubTitle" x="144" y="134" w="-1" h="-1" measuredW="147" measuredH="23" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::SubTitle" x="141" y="40" w="-1" h="-1" measuredW="147" measuredH="23" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <size>20</size>
         <text>Formas%20de%20pago</text>
       </controlProperties>
     </control>
-    <control controlID="13" controlTypeID="com.balsamiq.mockups::Label" x="114" y="172" w="-1" h="-1" measuredW="164" measuredH="21" zOrder="2" locked="false" isInGroup="-1">
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Label" x="122" y="78" w="-1" h="-1" measuredW="164" measuredH="21" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Tarjeta%20de%20cr%E9dito%20*****123</text>
       </controlProperties>
     </control>
-    <control controlID="14" controlTypeID="com.balsamiq.mockups::Label" x="114" y="193" w="-1" h="-1" measuredW="160" measuredH="21" zOrder="3" locked="false" isInGroup="-1">
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Label" x="122" y="99" w="-1" h="-1" measuredW="160" measuredH="21" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Tarjeta%20de%20d%E9bito%20*****567</text>
       </controlProperties>
     </control>
-    <control controlID="15" controlTypeID="com.balsamiq.mockups::Button" x="114" y="229" w="-1" h="-1" measuredW="176" measuredH="24" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Button" x="126" y="135" w="-1" h="-1" measuredW="176" measuredH="24" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
         <href>vincular_forma_pago%26bm%3Bvincular_forma_pago.bmml%26bm%3Bvincular_forma_pago.bmml%26bm%3Bvincular_forma_pago.bmml</href>
         <icon>PlusBigIcon%7Cxsmall</icon>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2241%2C204%2C217%2C228%22%20href%3D%22vincular_forma_pago.bmml%22%20alt%3D%22vincular_forma_pago%22%20id%3D%2215%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2253%2C110%2C229%2C134%22%20href%3D%22vincular_forma_pago.bmml%22%20alt%3D%22vincular_forma_pago%22%20id%3D%2215%22/%3E</map>
         <text>agregar%20forma%20de%20pago</text>
       </controlProperties>
     </control>
-    <control controlID="17" controlTypeID="com.balsamiq.mockups::Button" x="133" y="411" w="-1" h="-1" measuredW="162" measuredH="24" zOrder="5" locked="false" isInGroup="-1">
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::Button" x="133" y="496" w="-1" h="-1" measuredW="162" measuredH="24" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
         <href>terminos_condiciones%26bm%3Bterminos_condiciones.bmml%26bm%3Bterminos_condiciones.bmml%26bm%3Bterminos_condiciones.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2260%2C386%2C222%2C410%22%20href%3D%22terminos_condiciones.bmml%22%20alt%3D%22terminos_condiciones%22%20id%3D%2217%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2260%2C471%2C222%2C495%22%20href%3D%22terminos_condiciones.bmml%22%20alt%3D%22terminos_condiciones%22%20id%3D%2217%22/%3E</map>
         <text>T%E9rminos%20y%20condiciones</text>
       </controlProperties>
     </control>
-    <control controlID="18" controlTypeID="com.balsamiq.mockups::Button" x="99" y="132" w="-1" h="-1" measuredW="37" measuredH="24" zOrder="6" locked="false" isInGroup="-1">
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Button" x="85" y="39" w="-1" h="-1" measuredW="37" measuredH="24" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
         <href>ingresar_movil%26bm%3Bingresar_movil.bmml%26bm%3Bingresar_movil.bmml%26bm%3Bingresar_movil.bmml</href>
         <icon>JumpBackIcon%7Cxsmall</icon>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2226%2C107%2C63%2C131%22%20href%3D%22ingresar_movil.bmml%22%20alt%3D%22ingresar_movil%22%20id%3D%2218%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2212%2C14%2C49%2C38%22%20href%3D%22ingresar_movil.bmml%22%20alt%3D%22ingresar_movil%22%20id%3D%2218%22/%3E</map>
         <text/>
       </controlProperties>
     </control>

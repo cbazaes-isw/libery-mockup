@@ -1,6 +1,6 @@
 <mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="355" measuredH="535" mockupW="282" mockupH="510">
   <controls>
-    <control controlID="24" controlTypeID="com.balsamiq.mockups::SubTitle" x="118" y="127" w="-1" h="-1" measuredW="192" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::SubTitle" x="118" y="40" w="-1" h="-1" measuredW="192" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Solicitud%20de%20env%EDo</text>
       </controlProperties>
