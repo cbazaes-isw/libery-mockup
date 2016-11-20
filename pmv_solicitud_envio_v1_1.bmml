@@ -1,0 +1,18 @@
+<mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="355" measuredH="535" mockupW="282" mockupH="510">
+  <controls>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Canvas" x="73" y="25" w="282" h="451" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="-1"/>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::RoundButton" x="142" y="178" w="144" h="144" measuredW="32" measuredH="32" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>pmv_solicitud_envio_v1_2%26bm%3Bpmv_solicitud_envio_v1_2.bmml%26bm%3Bpmv_solicitud_envio_v1_2.bmml%26bm%3Bpmv_solicitud_envio_v1_2.bmml</href>
+        <icon>AIMIcon%7Csmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2269%2C153%2C213%2C297%22%20href%3D%22pmv_solicitud_envio_v1_2.bmml%22%20alt%3D%22pmv_solicitud_envio_v1_2%22%20id%3D%223%22/%3E</map>
+        <text>Env%EDa%20algo</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Canvas" x="73" y="476" w="282" h="59" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
